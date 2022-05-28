@@ -1,0 +1,17 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+    "layer0": "item/iron_pickaxe"
+    },
+    
+    "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "item/maps/map_1"},
+    {"predicate": {"custom_model_data":2}, "model": "item/maps/map_2"},
+    {"predicate": {"custom_model_data":3}, "model": "item/maps/map_3"},
+    {"predicate": {"custom_model_data":4}, "model": "item/maps/map_4"},
+    {"predicate": {"custom_model_data":5}, "model": "item/maps/map_5"},
+    {"predicate": {"custom_model_data":6}, "model": "item/superzin"},
+    {"predicate": {"custom_model_data":7}, "model": "item/how_to_play"},
+    {"predicate": {"custom_model_data":8}, "model": "item/icon_loop"}
+    ]
+   }

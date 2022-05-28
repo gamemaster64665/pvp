@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/ig.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE000"]
+        }
+    ]
+}

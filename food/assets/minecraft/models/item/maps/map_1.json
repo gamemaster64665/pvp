@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/gigatablet",
+    "textures": {
+      "screen": "minecraft:item/map_1"
+    }
+  }
